@@ -4,8 +4,7 @@ import Readqr from "./components/ReadQr";
 function App() {
   return (
     <div className="container-fluid">
-      <h1 className="my-5 text-center display-2">React QR Code Generator</h1>
-
+      <h1 className="my-5 text-center display-2">React QR Code Generator</h1>c
       <div className="row">
         <CreateQr />
         <Readqr />
